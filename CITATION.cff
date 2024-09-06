@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Guhlin
+    given-names: Joseph
+    orcid: https://orcid.org/0000-0003-3264-7178
+title: "Kmer Embeddings with Rust"
+version: 0.1.0
+date-released: 2024-09-06
